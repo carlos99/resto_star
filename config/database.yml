@@ -1,0 +1,26 @@
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: resto_star_development
+  pool: 5
+  username: rails_user
+  password: mint06
+
+test:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: resto_star_test
+  pool: 5
+  username: rails_user
+  password: mint06
+
+production:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: resto_star_production
+  pool: 5
+  username: rails_user
+  password: mint06 

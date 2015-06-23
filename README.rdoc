@@ -1,0 +1,5 @@
+Resto Star Web Application.
+
+This is a functional application that allows the user leave a comment and vote for different restaurants. 
+
+The user can register and login into the application. The user can create a new restaurant, leave comments, vote with ratings and see the ubication of the restaurant using google maps.
